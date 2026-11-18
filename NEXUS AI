@@ -1,0 +1,17 @@
+NEXUS AI
+Vous demandez. Le système choisit, fait produire, puis fait vérifier par une autre IA.
+Clés API (fournisseurs gratuits)Manuel (je colle entre mes IA gratuites)
+Faire vérifier par une autre IA
+Envoyer
+Réglages : mes IA (clés API)
+Choisissez deux fournisseurs différents. Les clés restent dans ce navigateur, jamais dans le fichier. Les adresses proposées sont à vérifier dans la documentation de chaque fournisseur.
+ProducteurEnregistrer et tester
+
+VérificateurEnregistrer et tester
+
+
+Journal
+
+Limites à connaître
+Certains fournisseurs refusent les appels depuis un navigateur : le bouton « tester » vous le dit. Les clés sont stockées dans ce navigateur : usage personnel seulement, sur votre propre téléphone. Ne mettez jamais une clé dans le fichier. « Conforme à la demande » ne veut pas dire « vrai » ; un prix, une date ou un stock sans source restent non tranchables.
+L’application ne travaille pas onglet fermé : rouvrez-la et touchez « Reprendre ». Aucune donnée sensible. Image, voix, vidéo et achat vérifié ne sont pas inclus.
